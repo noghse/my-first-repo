@@ -7,7 +7,7 @@
 I live in the midwest region, in the United States of America.
 
 
-### Reading
+### Things I like to do!
 
 
 Three of my favorite hobbies:
