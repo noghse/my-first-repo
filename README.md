@@ -1,34 +1,35 @@
-# This is a large heading
+# Reza
 
 
-## This is a smaller heading
+### Geography
 
 
-And as **imagination** bodies forth,
-The forms of things *unknown*,
-the poet’s pen,
-Turns them to 
-shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the midwest region, in the United States of America.
 
 
-- This is
-- an unordered
-- list 
-1. This is
-2. an ordered
-3. list
+### Things I like to do!
 
-Here is `some code` in the middle of a sentence.
 
-```
-This is a block 
-of code
-```
+Three of my favorite hobbies:
 
-Here is how you make [a link](https://www.wikipedia.org/).
+- *Fishing* open water
 
-![This is an 
-image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+- *Movies* most types
 
-nano README.md
+- *Biking* On or Off road
+
+
+### Food
+
+Food that's good:
+
+1. Pizza. 
+
+2. Steak.
+
+3. Eggs.
+
+
+### CLASS IS FUN!!!
+
+Going will with Markup!!!
